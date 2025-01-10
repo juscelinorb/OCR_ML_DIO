@@ -5,19 +5,8 @@
 **Uso da ferramenta Add captions to images, que Gera uma frase legível por humanos que descreva o conteúdo de uma imagem.**
 
 *Nessa imagem a ferramenta descreveu: (traduzido)"Uma mulher sentada em um banco perto de um corpo d'água."*
-<p float="left">
 
- <img src="https://github.com/juscelinorb/OCR_ML_DIO/blob/main/inputs/image-1.jpg" width="400" />
-
- <img src="https://github.com/juscelinorb/OCR_ML_DIO/blob/main/output/image-1.jpg" width="400" /> 
-
-</p>
-
-
-
-
-
-![Imagem de uma mulher sentada perto de um lago](/inputs/image-1.jpg)|![resultado1](/output/image-1.jpg)
+![Imagem de uma mulher sentada perto de um lago](/inputs/image-1.jpg) ![resultado1](/output/image-1.jpg)
 
 *Nessa imagem a ferramenta descreveu: (traduzido)"Uma mulher sentada em um banco perto de um corpo d'água."*
 
