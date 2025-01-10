@@ -8,6 +8,8 @@
 
 *Nessa imagem a ferramenta descreveu: (traduzido)"Uma mulher sentada em um banco perto de um corpo d'água."*
 
+---
+
 **Uso da ferramenta Detect faces in an image, Detecte a localização de um ou mais rostos humanos em imagens, juntamente com atributos como pose, máscara facial e marcos faciais.**
 
 ![Imagem de ](/inputs/image-2.jpg) ![resultado 2](/output/image-2.jpg)
