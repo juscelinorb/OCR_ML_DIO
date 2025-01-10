@@ -7,9 +7,9 @@
 *Nessa imagem a ferramenta descreveu: (traduzido)"Uma mulher sentada em um banco perto de um corpo d'água."*
 <p float="left">
 
- <img src="https://github.com/juscelinorb/OCR_ML_DIO/blob/main/inputs/image-1.jpg" width="200" />
+ <img src="https://github.com/juscelinorb/OCR_ML_DIO/blob/main/inputs/image-1.jpg" width="400" />
 
- <img src="https://github.com/juscelinorb/OCR_ML_DIO/blob/main/output/image-1.jpg" width="200" /> 
+ <img src="https://github.com/juscelinorb/OCR_ML_DIO/blob/main/output/image-1.jpg" width="400" /> 
 
 </p>
 
