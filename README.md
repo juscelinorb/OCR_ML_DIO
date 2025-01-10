@@ -11,15 +11,25 @@
 ![Imagem da Cidade do Rio de Janeiro ](/inputs/image-5.jpg) ![resultado 5](/output/image-5.jpg)
 
 *Aqui observando a paisagem teve mais detalhes para descrever:*
+
 *Uma estátua em uma montanha com uma cidade ao fundo*
+
 *Uma grande formação rochosa à distância*
+
 *Uma estátua de um homem com os braços abertos*
+
 *Uma vista de alto ângulo de uma cidade*
+
 *Uma cidade à distância*
+
 *Uma estátua em uma montanha com uma cidade ao fundo*
+
 *Uma vista de uma cidade e água*
+
 *Vista aérea de um edifício cercado por árvores*
+
 *Uma grande montanha de pedra ao lado da água*
+
 *Uma estátua de um homem no topo de uma montanha com água e ilhas"*
 
 ---
@@ -40,4 +50,4 @@
 
 ![Imagem de um cupom fiscal ](/inputs/image-4.jpg) ![resultado 4](/output/image-4.jpg)
 
-*Nesse caso não foram detectados nenhum rosto humano pois estavam usando fantasias que cobriam seus rostos.*
+*Nessa imagem podemos ver que reconheceu todos as palavras.*
