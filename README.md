@@ -14,6 +14,6 @@
 
 *Nesse caso não foram detectados nenhum rosto humano pois estavam de mascaras.*
 
-![Imagem de ](/inputs/image-4.jpg) ![resultado 2](/output/image-3.jpg)
+![Imagem de ](/inputs/image-3.jpg) ![resultado 2](/output/image-3.jpg)
 
 *Já aqui pode-se notar que foram encontradas 13 pessoas que estavam de rosto virado para frente ou de lado.*
